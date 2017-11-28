@@ -2,4 +2,4 @@
 
 gitの実習中
 
-Pushの練習中
+conflictの解消法
